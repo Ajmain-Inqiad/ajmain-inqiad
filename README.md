@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🔭 Things I do
+### 🔭 Working as a
 
 - **Machine Learning Engineer**, **Software Engineer**!
 
