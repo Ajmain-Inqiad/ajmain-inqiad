@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### 🔭 Working as a
+### 🔭 Working as
 
-- **Machine Learning Engineer**, **Software Engineer**!
+- **AI Engineer**, **Software Engineer**!
 
 ### 📬 Find me at
 
